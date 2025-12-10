@@ -1,1 +1,3 @@
 # virtualstore
+
+Texto alterado no repositório local.
